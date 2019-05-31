@@ -1,4 +1,6 @@
-/PROJET4/temp
-/PROJET4/poms/code
-PROJET4/poms/jobs
-/PROJET4/code/routines/system
+
+# ignore Talend temporary files
+*/temp
+*/poms/code/
+*/poms/jobs/
+*/code/routines/system
