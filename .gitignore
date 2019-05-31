@@ -3,8 +3,9 @@
 */temp/
 */poms/code/
 */poms/jobs/
-*/code/routines/system
+*/code/routines/system/
 */process/*.screenshot
+#/sqlPatterns : à vérifier
 
 
 # If .ignore file has been added after the initial commit
