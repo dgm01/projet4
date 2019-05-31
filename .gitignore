@@ -1,6 +1,14 @@
 
 # ignore Talend temporary files
-*/temp
+*/temp/
 */poms/code/
 */poms/jobs/
 */code/routines/system
+*/process/*.screenshot
+
+
+# If .ignore file has been added after the initial commit
+# it might be necessary to remove ignored files:
+# > git rm -r --cached . 
+# > git add .
+# > git commit -am "Remove ignored files"
