@@ -1,4 +1,15 @@
-/PROJET4/temp
-/PROJET4/poms/code
-PROJET4/poms/jobs
-/PROJET4/code/routines/system
+
+# ignore Talend temporary files
+*/temp/
+*/poms/code/
+*/poms/jobs/
+*/code/routines/system/
+*/process/*.screenshot
+#/sqlPatterns : à vérifier
+
+
+# If .ignore file has been added after the initial commit
+# it might be necessary to remove ignored files:
+# > git rm -r --cached . 
+# > git add .
+# > git commit -am "Remove ignored files"
